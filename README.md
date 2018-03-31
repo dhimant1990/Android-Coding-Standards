@@ -1,0 +1,1 @@
+# Android-Coding-Standards
